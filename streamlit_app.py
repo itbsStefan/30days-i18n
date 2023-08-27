@@ -53,7 +53,7 @@ selected_day = st.selectbox(
     format_func=format_day
 )
 
-with st.expander(_("About the #30DaysOfStreamlit")):
+with st.expander(_("About the #30DaysOfStreamlit) [ITBS Wiki](http://wiki.itbs.selfhost.co/doku.php?id=cowork:starconnect:public:notes")):
     st.markdown(_(
         """
     The **#30DaysOfStreamlit** is a coding challenge designed to help you get started in building Streamlit apps.
